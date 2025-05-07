@@ -3,7 +3,7 @@
 ## Aim:
 To write a C Program to compare two strings without using strcmp().
 
-## Algorithm
+## Algorithm:
 1. Start. 
 2. Define a variables. 
 3. Write program to compare two strings using nested for loop and if statement. 
